@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+With a background in technical support and a passion for creativity, I bring a unique perspective to the world of tech. My natural adaptability and quick learning style, combined with my skills in graphic design, video production, and photography, enable me to tackle new challenges with ease and deliver innovative solutions. Driven by a desire to make a positive impact and continuously grow, I am committed to advancing my skills and knowledge in the tech industry.
+
 <!--
 **hekmaflo/hekmaflo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
