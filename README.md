@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-With a background in technical support and a passion for creativity, I bring a unique perspective to the world of tech. My natural adaptability and quick learning style, combined with my skills in graphic design, video production, and photography, enable me to tackle new challenges with ease and deliver innovative solutions. Driven by a desire to make a positive impact and continuously grow, I am committed to advancing my skills and knowledge in the tech industry.
+I am a curious and collaborative full-stack web developer with experience as a System Support specialist. I bring a passion for building applications and constantly learning new technologies to the table. My strengths include problem-solving, effective communication, and a quick learning. I strive to create unique and user-friendly websites that leave a lasting impression. My long-term goal is to develop a standout web app or game that captivates audiences and contributes to the success of a top-tier company.
 
 <!--
 **hekmaflo/hekmaflo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
