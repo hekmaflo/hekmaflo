@@ -2,8 +2,11 @@
 
 I am a curious and collaborative full-stack web developer with experience as a System Support specialist. I bring a passion for building applications and constantly learning new technologies to the table. My strengths include problem-solving, effective communication, and a quick learning. I strive to create unique and user-friendly websites that leave a lasting impression. My long-term goal is to develop a standout web app or game that captivates audiences and contributes to the success of a top-tier company.
 
-#Skills
+# Skills
 HTML | CSS | JavaScript | React | MongoDB | Express | Node | PostgreSQL | Sequelize | Vue.js | Python | Flask
+
+# Contact me
+### hmflores88@gmail.com
 
 <!--
 **hekmaflo/hekmaflo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
